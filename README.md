@@ -1,1 +1,1 @@
-# Grocery_Management_frontend_project
+# Grocery_Management_project
